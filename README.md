@@ -14,7 +14,7 @@ This project demonstrates manual and automation testing for a simulated FinTech 
 
 ## How to Run
 npm install  
-npx test  
+npm test  
 
 ## Reports
 Playwright HTML reports generated after execution.
