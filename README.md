@@ -1,20 +1,31 @@
-# FinTech QA Automation Project
+# QA Portfolio – Rajesh Jadapalli
 
-This project demonstrates manual and automation testing for a simulated FinTech banking application.
+This repository contains multiple QA projects showcasing my skills in Manual Testing, API Testing, and Automation Testing.
 
-## Features Tested
-- Login
-- Logout
-- Money Transfer (Simulation)
+## Projects
 
-## Tools Used
-- Playwright
-- JavaScript
-- Postman
+### 1. FinTech QA Project
+- Login, Money Transfer, Logout
+- API Testing using Postman
+- Playwright Automation
 
-## How to Run
-npm install  
-npm test  
+### 2. Healthcare QA Project
+- Patient Login & Logout
+- Appointment Booking
+- API Testing
+- Bug Reporting
+- Playwright Automation
+- Login API Testing
+- Appointment Booking API Testing
+- Negative Testing
+- Bug Reports
 
-## Reports
-Playwright HTML reports generated after execution.
+## Tools & Skills
+- Manual Testing  
+- API Testing (Postman)  
+- Automation (Playwright)  
+- Bug Reporting  
+- Test Case Design  
+
+## Author
+Rajesh Jadapalli
