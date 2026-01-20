@@ -1,0 +1,30 @@
+
+Healthcare Application – QA Test Plan
+
+1.Objective
+- To verify that the healthcare application works correctly for login, 
+   appointment booking, and logout.
+
+2.Scope
+- Login
+- Appointment Booking
+- Logout
+- API Testing
+
+3.Test Types
+- Manual Testing
+- Automation Testing (Playwright)
+- API Testing
+
+4.Test Environment
+- Browser: Chrome
+- OS: Windows
+- Tool: Playwright, Postman
+
+5.Entry Criteria
+- Application is accessible
+- Test data available
+
+6.Exit Criteria
+- All test cases executed
+- Major bugs fixed

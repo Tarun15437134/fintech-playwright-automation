@@ -1,0 +1,10 @@
+| Test ID | Scenario                      | Steps                     | Expected Result          |
+| ------- | ----------------------------- | ------------------------- | ------------------------ |
+| HC101   | Book appointment successfully | Select doctor, date, time | Appointment confirmed    |
+| HC102   | Invalid date                  | Choose past date          | Error message            |
+| HC103   | No doctor selected            | Click book                | Validation shown         |
+| HC104   | Slot unavailable              | Choose full slot          | Slot unavailable message |
+| HC105   | Cancel booking                | Click cancel              | No appointment booked    |
+| HC106   | Multiple bookings             | Book twice                | Only one allowed         |
+| HC107   | Network issue                 | Book offline              | Booking failed           |
+| HC108   | Wrong patient                 | Book for other ID         | Access denied            |

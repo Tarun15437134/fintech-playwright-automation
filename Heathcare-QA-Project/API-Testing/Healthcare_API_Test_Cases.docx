@@ -1,0 +1,20 @@
+Healthcare API Testing
+
+APIs Covered:
+1. Patient Login API
+2. Get Patient Records API
+3. Appointment Booking API
+
+Tools Used:
+Postman
+
+Test Types:
+- Positive Testing
+- Negative Testing
+- Authorization Testing
+
+
+| API       | Scenario      | Expected       | Actual         | Status |
+| --------- | ------------- | -------------- | -------------- | ------ |
+| Login API | Valid login   | Token returned | Token returned | Pass   |
+| Login API | Invalid login | 401 Error      | 401 Error      | Pass   |

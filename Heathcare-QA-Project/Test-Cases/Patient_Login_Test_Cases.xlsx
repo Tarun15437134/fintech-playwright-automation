@@ -1,0 +1,7 @@
+| Test ID | Scenario         | Steps                          | Expected Result    |
+| ------- | ---------------- | ------------------------------ | ------------------ |
+| HC001   | Valid Login      | Enter correct email & password | Login success      |
+| HC002   | Invalid Password | Enter wrong password           | Error message      |
+| HC003   | Empty Fields     | Click login without data       | Validation message |
+| HC004   | Locked Account   | Login with locked user         | Access denied      |
+| HC005   | Session Timeout  | Stay idle                      | Auto logout        |

@@ -1,0 +1,5 @@
+| Bug ID    | Module      | Description                 | Steps               | Expected      | Actual             | Priority | Status |
+| --------- | ----------- | --------------------------- | ------------------- | ------------- | ------------------ | -------- | ------ |
+| HC-BUG-01 | Login       | Login fails with valid user | Enter correct creds | Login success | Error              | High     | Open   |
+| HC-BUG-02 | Appointment | Slot shows available        | Book slot           | Blocked       | Booking allowed    | Critical | Open   |
+| HC-BUG-03 | Records     | Wrong patient data          | Open record         | Correct data  | Other patient data | Critical | Open   |
