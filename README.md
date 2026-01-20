@@ -26,6 +26,3 @@ This repository contains multiple QA projects showcasing my skills in Manual Tes
 - Automation (Playwright)  
 - Bug Reporting  
 - Test Case Design  
-
-## Author
-Rajesh Jadapalli
